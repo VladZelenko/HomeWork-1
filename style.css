@@ -1,0 +1,39 @@
+body {
+	background-color: #D7CCAB;
+}
+footer {
+	background-color: #333333;
+	color: #FFFFFF;
+}
+.header {
+	background-color: #CC3333;
+}
+.header ul {
+	list-style-type: none;
+}
+.header li {
+	display: block;
+	float: left;
+	font-size: 20px;
+	padding: 10px 20px;
+}
+.header li>a {
+	text-decoration: none;
+	color: #000000;
+	padding: 10px 20px;
+	margin: 0px 10px;
+}
+.header li>a:hover {
+	color: #FFFFFF;
+	border-bottom: 3px solid #FFFFFF;
+}
+.tablefoot {
+	padding-right: 40px;
+}
+.contents {
+	text-indent: 1.5em;
+	text-align: justify;
+}
+th {
+	padding-right: 10px;
+}
